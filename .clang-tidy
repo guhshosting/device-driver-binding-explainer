@@ -1,0 +1,3 @@
+Checks: '-*,clang-analyzer-*,bugprone-infinite-loop,bugprone-sizeof-expression,bugprone-use-after-move,performance-*'
+WarningsAsErrors: '*'
+HeaderFilterRegex: '.*[\\/]src[\\/].*'
